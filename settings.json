@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "CraftGhast.aternos.me",
-    "port": 57106,
+    "ip": "CraftGhast.aternos.me:54734",
+    "port": 54734,
     "version": "26.2"
   },
   "position": {
